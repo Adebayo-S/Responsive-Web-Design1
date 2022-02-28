@@ -1,1 +1,3 @@
-#Vagrant Project/nDay 0 optional project
+# Vagrant Project
+
+Day 0 optional project
